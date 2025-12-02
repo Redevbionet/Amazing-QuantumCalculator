@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Key Distribution Simulator",
+  "description": "A web-based simulation of the BB84 Quantum Key Distribution protocol, demonstrating qubit preparation, measurement, sifting, error correction, privacy amplification, and security features like QBER detection and HMAC for secure classical communication.",
+  "requestFramePermissions": []
+}
